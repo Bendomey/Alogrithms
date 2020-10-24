@@ -1,0 +1,12 @@
+Top 10 also questions
+
+- Depth First Search
+- Breadth First Search
+- Matching Perenthesis
+- Hash Tables
+- Variables/ Pointers manipulation (eg longest substring in a string that is palindrome)
+- Reversing a linked list
+- Sorting Fundamentals
+- Recursion
+- Custom data structure
+- Binary Search
