@@ -2,7 +2,7 @@
 Algorithms implemented in golang
 
 ###### Note:
-> - All of the items listed below with thumbs down (:thumbdown:) emoji tells us that it has not been done yet :blush:
+> - All of the items listed below with thumbs down (:thumbsdown:) emoji tells us that it has not been done yet :blush:
 > - All of the items listed below with yum (:yum:) emoji tells us that is in progress :heart_eyes:
 > - All of the items listed below with thumbs up (:thumbsup:) emoji tells us that it has been done
 
@@ -10,7 +10,7 @@ Algorithms implemented in golang
 
 ### Data Structures
    
-   1. [:thumbsdown:] Arrays - One And Two Dimensional Arrays
+   1. [:yum:] Arrays - One And Two Dimensional Arrays
    2. [:thumbsdown:] LinkedLists - All Types
    3. [:thumbsdown:] Stacks
    4. [:thumbsdown:] Queues
