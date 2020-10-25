@@ -14,14 +14,15 @@ Algorithms implemented in golang
    5. Hash Tables :thumbsdown:
    6. Trees :thumbsdown:
    7. Heaps :thumbsdown:
-    8. Graphs :thumbsdown:
+   8. Graphs :thumbsdown:
 
 ### Time Complexity Analysis
-      1. Analysis Of Algorithms :thumbsdown:
+    
+   1. Analysis Of Algorithms :thumbsdown:
       
 ### Algorithms
-      1. Searching Algorithms :thumbsdown:
-      2. Sorting Algorithms :thumbsdown:
-      3. String Searching Algorithms :thumbsdown:
-      4. Dynamic Programming :thumbsdown:
-      5. Backtracking :thumbsdown:
+   1. [:thumbsdown:] Searching Algorithms 
+   2. [:thumbsdown:] Sorting Algorithms 
+   3. [:thumbsdown:] String Searching Algorithms 
+   4. [:thumbsdown:] Dynamic Programming 
+   5. [:thumbsdown:] Backtracking
