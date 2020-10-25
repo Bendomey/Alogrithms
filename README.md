@@ -1,29 +1,26 @@
 # Alogrithms
 Algorithms implemented in golang
 
+> Note: All of the items listed below with thumbs down emoji tells us that it has not been done yet :blush:
 
 ## These are the algorithms listed below
 
 ### Data Structures
-      1. Arrays - One And Two Dimensional Arrays
-      2. LinkedLists - All Types 
-      3. Stacks
-      4. Queues
-      5. Hash Tables
-      6. Trees
-      7. Heaps
-      8. Graphs
+      1. Arrays - One And Two Dimensional Arrays :thumbsdown:
+      2. LinkedLists - All Types :thumbsdown:
+      3. Stacks :thumbsdown:
+      4. Queues :thumbsdown:
+      5. Hash Tables :thumbsdown:
+      6. Trees :thumbsdown:
+      7. Heaps :thumbsdown:
+      8. Graphs :thumbsdown:
 
-      - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-      - [x] list syntax required (any unordered or ordered list supported)
-      - [x] this is a complete item
-      - [ ] this is an incomplete item
 ### Time Complexity Analysis
-      1. Analysis Of Algorithms
+      1. Analysis Of Algorithms :thumbsdown:
       
 ### Algorithms
-      1. Searching Algorithms
-      2. Sorting Algorithms
-      3. String Searching Algorithms
-      4. Dynamic Programming
-      5. Backtracking
+      1. Searching Algorithms :thumbsdown:
+      2. Sorting Algorithms :thumbsdown:
+      3. String Searching Algorithms :thumbsdown:
+      4. Dynamic Programming :thumbsdown:
+      5. Backtracking :thumbsdown:
