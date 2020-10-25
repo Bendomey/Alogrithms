@@ -1,8 +1,10 @@
 package main
 
-import "fmt"
+/**
+* This file is the starting point to all that is covered in this module :: ARRAY
+ */
 
 func main() {
-	//log hello world
-	fmt.Println("Hello world")
+	// arrayCreation()
+	insertDataIntoGivenArray([...]string{"Domey", "Benjamin", "Akankobateng"})
 }
