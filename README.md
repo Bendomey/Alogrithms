@@ -29,3 +29,6 @@ Algorithms implemented in golang
    3. [:thumbsdown:] String Searching Algorithms 
    4. [:thumbsdown:] Dynamic Programming 
    5. [:thumbsdown:] Backtracking
+
+
+For general docs on this platform [Click Here](https://docs.google.com/document/d/1NVFaQVAKxNQm1S7D9Xtn0qxGSeQ6FDChal15y6cdxLk/edit)
