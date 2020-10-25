@@ -7,18 +7,18 @@ Algorithms implemented in golang
 
 ### Data Structures
    
-   1. Arrays - One And Two Dimensional Arrays :thumbsdown:
-   2. LinkedLists - All Types :thumbsdown:
-   3. Stacks :thumbsdown:
-   4. Queues :thumbsdown:
-   5. Hash Tables :thumbsdown:
-   6. Trees :thumbsdown:
-   7. Heaps :thumbsdown:
-   8. Graphs :thumbsdown:
+   1. [:thumbsdown:] Arrays - One And Two Dimensional Arrays
+   2. [:thumbsdown:] LinkedLists - All Types
+   3. [:thumbsdown:] Stacks
+   4. [:thumbsdown:] Queues
+   5. [:thumbsdown:] Hash Tables
+   6. [:thumbsdown:] Trees
+   7. [:thumbsdown:] Heaps
+   8. [:thumbsdown:] Graphs 
 
 ### Time Complexity Analysis
     
-   1. Analysis Of Algorithms :thumbsdown:
+   1. [:thumbsdown:] Analysis Of Algorithms 
       
 ### Algorithms
    1. [:thumbsdown:] Searching Algorithms 
