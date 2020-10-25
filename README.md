@@ -2,9 +2,9 @@
 Algorithms implemented in golang
 
 ###### Note:
->  All of the items listed below with thumbs down (:thumbdown:) emoji tells us that it has not been done yet :blush:
-> All of the items listed below with yum (:yum:) emoji tells us that is in progress :heart_eyes:
-> All of the items listed below with thumbs up (:thumbsup:) emoji tells us that it has been done
+> - All of the items listed below with thumbs down (:thumbdown:) emoji tells us that it has not been done yet :blush:
+> - All of the items listed below with yum (:yum:) emoji tells us that is in progress :heart_eyes:
+> - All of the items listed below with thumbs up (:thumbsup:) emoji tells us that it has been done
 
 ## These are the algorithms listed below
 
