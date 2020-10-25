@@ -14,11 +14,12 @@ Algorithms implemented in golang
       7. Heaps
       8. Graphs
 
-2. Time Complexity Analysis
-
-3. Algorithms
-  a. Searching Algorithms
-  b. Sorting Algorithms
-  c. String Searching Algorithms
-  d. Dynamic Programming
-  e. Backtracking
+### Time Complexity Analysis
+      1. Analysis Of Algorithms
+      
+### Algorithms
+      1. Searching Algorithms
+      2. Sorting Algorithms
+      3. String Searching Algorithms
+      4. Dynamic Programming
+      5. Backtracking
