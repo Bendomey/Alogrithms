@@ -6,5 +6,6 @@ package main
 
 func main() {
 	// arrayCreation()
-	insertDataIntoGivenArray([...]string{"Domey", "Benjamin", "Akankobateng"})
+	// insertDataIntoGivenArray([...]string{"Domey", "Benjamin", "Akankobateng"})
+	removeFromAGivenArrayInAPosition([...]string{"Domey", "Benjamin", "Akankobateng"})
 }

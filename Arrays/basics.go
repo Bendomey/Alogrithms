@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"log"
-	"reflect"
 )
 
 /**
@@ -13,7 +12,6 @@ import (
 * 3. Get data on a certain index
 * 4. Insert data into a position
 * 5. delete data in a position
-* 6. list the data in an array
  */
 
 func arrayCreation() {
@@ -71,6 +69,56 @@ func insertDataIntoGivenArray(names [3]string) {
 	}
 
 	for i := 0; i < len(namesAdded); i++ {
-		fmt.Println(i, " - ", namesAdded[i], " - ", reflect.TypeOf(namesAdded[i]))
+		fmt.Println(i, " - ", namesAdded[i])
+	}
+}
+
+func removeFromAGivenArrayInAPosition(names [3]string) {
+	// 4. Inserting data into any position :: adding a name to the names
+	fmt.Println("3. Inserting Data in any position")
+
+	for i := 0; i < len(names); i++ {
+		fmt.Println(i, " - ", names[i])
+	}
+	// first I create a new array with size - 1
+	var namesSub [len(names) - 1]string
+
+	// get position to remove from
+	var position string
+	fmt.Print("Enter the string you'd want to remove from the array")
+	_, err := fmt.Scan(&position)
+	if err != nil {
+		panic("Something happened")
+	}
+
+	//find string in array
+	getStringPosition := -1
+	for i := 0; i < len(names); i++ {
+		if names[i] == position {
+			getStringPosition = i
+		}
+	}
+	// if string is not ready a, quit the app
+	if getStringPosition == -1 {
+		panic("Please enter a valid string")
+	}
+
+	//reduce the array
+	for i := 0; i < len(names)-1; i++ {
+		if i < getStringPosition {
+			// if its less than the string position a, just add to the next index
+			namesSub[i] = names[i]
+		} else if i == getStringPosition {
+			// if its equal to the string position a, just skip it and choose next value
+			namesSub[i] = names[i+1]
+		} else if i > getStringPosition {
+			// if is greater than the string postion a, that means the currnent would have been assigned
+			// so you'd have to take the next one
+			namesSub[i] = names[i+1]
+		}
+	}
+
+	for i := 0; i < len(namesSub); i++ {
+		fmt.Println(i, " - ", namesSub[i])
 	}
 }
