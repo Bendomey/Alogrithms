@@ -3,7 +3,8 @@ Algorithms implemented in golang
 
 
 ## These are the algorithms listed below
-1. Data Structures
+
+### 1. Data Structures
    a. Arrays - One And Two Dimensional Arrays
    b. LinkedLists - All Types 
    c. Stacks
